@@ -52,7 +52,7 @@ body{
 
 .home header div.container-logo div.form form input{
     background-color: white;
-    background-image: url('/public/img/searchicon.png');
+    background-image: url('/img/searchicon.png');
     background-size: 17px;
     background-position: 97% center ;
     background-repeat: no-repeat;
